@@ -1,0 +1,1 @@
+Carro{modelo='Tundra', placa='G5KS3JJ', color='Blanco', año=2024.0}
